@@ -8,8 +8,8 @@ struct nodo{
     struct nodo *sigiente;
 };
 
-typedef struct nodo *NODO;
-typedef struct NODO *PNODO;
+typedef struct nodo NODO;
+typedef NODO *PNODO;
 
 // crear funcion para eliminar y buscar
 

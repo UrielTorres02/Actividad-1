@@ -1,7 +1,6 @@
 #include <iostream>
 #include <stdio.h>
-
-
+// HERNANDO URIEL TORRES DE LUNA 203'342
 
 struct nodo{
     // string con el nombre del vendedor
